@@ -1,0 +1,2 @@
+# NewsRule-TV
+available readme
